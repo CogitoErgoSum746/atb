@@ -1,0 +1,16 @@
+Teacher Login Details
+
+Username: karen
+Password: password
+
+Username: saurabh
+Password: password
+
+Username: gracious
+Password: password
+
+**Student Details**
+
+Rol No. 23
+Rol No. 30
+Rol No. 1
